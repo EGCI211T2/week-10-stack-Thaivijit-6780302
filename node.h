@@ -7,6 +7,10 @@
 
 #ifndef node_h
 #define node_h
+#include <iostream>
+using namespace std;
+
+
 class NODE{
      int data;
     NODE *nextPtr;
